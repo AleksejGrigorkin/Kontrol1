@@ -62,3 +62,17 @@ int InputInt(string text)
     return x;
 }
 
+
+
+// // Компактное решение с нарушением требования формирования методов
+// // и допуская запись однострочных циклов и сравнений в одну строку.
+// using static System.Console;
+// WriteLine("Введите через пробел элементы строкового массива: ");
+// string? line = ReadLine();
+// if (line == null) line = "";
+// string[] lineArray = line.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+// string myLine="";
+// for(int i=0;i<lineArray.Length;i++) if(lineArray[i].Length<=3) myLine=myLine+" "+lineArray[i];
+// string[] myArray = myLine.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+// WriteLine("Итоговый массив:");
+// WriteLine(string.Join(", ", myArray));
