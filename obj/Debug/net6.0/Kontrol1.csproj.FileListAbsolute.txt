@@ -1,0 +1,15 @@
+E:\Программирование\C#\Kontrol1\Kontrol1\bin\Debug\net6.0\Kontrol1.exe
+E:\Программирование\C#\Kontrol1\Kontrol1\bin\Debug\net6.0\Kontrol1.deps.json
+E:\Программирование\C#\Kontrol1\Kontrol1\bin\Debug\net6.0\Kontrol1.runtimeconfig.json
+E:\Программирование\C#\Kontrol1\Kontrol1\bin\Debug\net6.0\Kontrol1.dll
+E:\Программирование\C#\Kontrol1\Kontrol1\bin\Debug\net6.0\Kontrol1.pdb
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.csproj.AssemblyReference.cache
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.AssemblyInfoInputs.cache
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.AssemblyInfo.cs
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.csproj.CoreCompileInputs.cache
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.dll
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\refint\Kontrol1.dll
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.pdb
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\Kontrol1.genruntimeconfig.cache
+E:\Программирование\C#\Kontrol1\Kontrol1\obj\Debug\net6.0\ref\Kontrol1.dll
